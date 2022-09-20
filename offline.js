@@ -1,10 +1,11 @@
 ﻿{
-	"version": 1663708460,
+	"version": 1663708931,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
+		"c2webappstart.js",
 		"Cosmic Jump/Assets/background/sprite2-sheet0.png",
 		"Cosmic Jump/Assets/background/tiledbackground.png",
 		"Cosmic Jump/Assets/background/background-sheet0.png",
